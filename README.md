@@ -1,4 +1,4 @@
-# metrics-engine-api
+# Metrics Engine API
 A backend service that accepts numeric datasets and returns descriptive
 statistical metrics.
 
